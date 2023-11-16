@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+    <!-- Add your CSS links or styles here -->
+    <style>
+        /* Your CSS styles can also be placed here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Add more styles for other elements as needed */
+    </style>
+</head>
+
+<body>
+    <header>
+        <!-- Header content goes here -->
+        <h1>Welcome to Your Website</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Main content goes here -->
+        <section>
+            <h2>Main Section Title</h2>
+            <p>This is your main content area. Feel free to add text, images, and other elements here.</p>
+        </section>
+    </main>
+
+    <footer>
+        <!-- Footer content goes here -->
+        <p>&copy; 2023 YourWebsite.com</p>
+    </footer>
+
+    <!-- Add your JavaScript links or scripts here -->
+    <script>
+        // Your JavaScript code can also be placed here
+        // This is where you can add interactivity to your webpage
+    </script>
+</body>
+
+</html>
+
