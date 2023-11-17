@@ -1,5 +1,7 @@
 body {
-   
+    padding-left: 60px;
+    font-family: ;
+    margin: 0;
 }
 
 h1 {
@@ -12,5 +14,11 @@ h1 {
 h5 {
     font-weight: lighter;
     font-style: italic;
-    font-size: 2em;
+    font-size: 1.5em;
+    text-decoration: underline;
+    
+}
+
+.riviali {
+    margin-top: 100px;
 }
