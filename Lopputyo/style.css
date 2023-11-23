@@ -2,6 +2,7 @@ body {
     padding-left: 60px;
     font-family: ;
     margin: 0;
+    font-size: 1em;
 }
 
 h1 {
@@ -19,15 +20,30 @@ h5 {
     font-weight: lighter;
     font-style: italic;
     font-size: 1.5em;
-    text-decoration: underline;
     
 }
 
-.riviali {
+.rivivali {
     margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 60px;
+}
+
+.rivivali2 {
+    margin-top: 300px;
+    margin-bottom: 100px;
 }
 
 .alvar {
 float: right;
 
+}
+
+.skanditeksti {
+    margin-right: 60px;
+}
+
+.alvarteksti {
+    text-align: justify;
+    padding-right: 60px;
 }
