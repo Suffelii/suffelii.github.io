@@ -1,5 +1,5 @@
 body {
-    padding-left: 60px;
+    padding-left: 6%;
     font-family: ;
     margin: 0;
     font-size: 1em;
@@ -24,23 +24,23 @@ h5 {
 }
 
 .rivivali {
-    margin-top: 80px;
-    margin-bottom: 80px;
-    margin-right: 60px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 6%;
 }
 
 .rivivali2 {
-    margin-top: 300px;
-    margin-bottom: 100px;
+    margin-top: 22%;
+    margin-bottom: 15%;
 }
 
 .rivivali3 {
-    margin-top: 40px;
-    margin-bottom: 90px;
+    margin-top: 6%;
+    margin-bottom: 6%;
 }
 
 .rivivali4 {
-    margin-bottom: 40px;
+    margin-bottom: 6%;
 }
 
 .alvar {
@@ -49,10 +49,10 @@ float: right;
 }
 
 .skanditeksti {
-    margin-right: 60px;
+    margin-right: 4%;
 }
 
 .alvarteksti {
     text-align: justify;
-    padding-right: 60px;
+    padding-right: 10%;
 }

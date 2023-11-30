@@ -1,6 +1,10 @@
 body {
-    padding-left: 60px;
+    padding-left: 6%;
     font-family: ;
     margin: 0;
     font-size: 1em;
+}
+
+.invisible {
+    display: none;
 }
