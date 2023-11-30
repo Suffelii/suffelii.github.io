@@ -3,6 +3,7 @@ body {
     font-family: ;
     margin: 0;
     font-size: 1em;
+    max-width: 100%;
 }
 
 h1 {
@@ -56,3 +57,7 @@ float: right;
     text-align: justify;
     padding-right: 10%;
 }
+
+@media only screen and (max-width: 600px) {
+    /* Mobiililaitteille tarkoitetut tyylit */
+  }
