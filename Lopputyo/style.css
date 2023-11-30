@@ -20,6 +20,11 @@ h1 {
    
 }
 
+.turvavali img {
+    max-width: 100%;
+    height: auto;
+}
+
 h2 {
     font-size: 3em;
 }
