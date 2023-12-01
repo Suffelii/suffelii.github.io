@@ -3,7 +3,12 @@
     width: 100%;
   }
 
-@media only screen and (max-width:600px) { 
+@media only screen and (max-width: 600px) { 
+
+div.example {
+    font-size: 30px;
+}
+}
     
 body {
     padding-left: 6%;
@@ -11,11 +16,6 @@ body {
     margin: 0;
     font-size: 1em;
     max-width: 100%;
-}
-
-img {
-    width: 100%;
-    height: auto;
 }
 
 h1 {
@@ -26,23 +26,23 @@ h1 {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
 .rivivali img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
 
 .rivivali2 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
 .rivivali4 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
@@ -89,6 +89,4 @@ float: right;
 .alvarteksti {
     text-align: justify;
     padding-right: 10%;
-}
-
 }
