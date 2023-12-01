@@ -1,3 +1,8 @@
+
+[class*="col-"] {
+    width: 100%;
+  }
+
 @media only screen and (min-width:600px) { 
     
 body {
@@ -21,24 +26,23 @@ h1 {
 }
 
 img {
-    width: auto;
+    max-width: 100%;
     height: auto;
 }
 
 .rivivali img {
-    width: auto;
+    max-width: 100%;
     height: auto;
 }
 
 
 .rivivali2 img {
-    width: auto;
+    max-width: 100%;
     height: auto;
 }
 
-/* Rivivali4 osion kuvat */
 .rivivali4 img {
-    width: auto;
+    max-width: 100%;
     height: auto;
 }
 
