@@ -5,6 +5,17 @@ body {
     font-size: 1em;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
 .invisible {
     display: none;
+}
+
+.visible {
+    display: block;
 }
